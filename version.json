@@ -1,5 +1,6 @@
+
 {
-  "version": "1.1",
-  "download_url": "",
-  "message": "Aktualizacja PROTO"
+  "version": "1.2",
+  "download_url": "https://raw.githubusercontent.com/kewin8763-dev/PROTO/main/PROTO_1_2.ahk",
+  "message": "PROTO 1.2 — automatyczne aktualizacje"
 }
